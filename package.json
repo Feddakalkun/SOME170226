@@ -1,0 +1,29 @@
+{
+    "name": "fanvue-creator-studio-pro",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "next": "16.0.10",
+        "react": "19.2.1",
+        "react-dom": "19.2.1",
+        "axios": "^1.13.2",
+        "lucide-react": "^0.561.0",
+        "framer-motion": "^12.23.26",
+        "uuid": "^10.0.0"
+    },
+    "devDependencies": {
+        "typescript": "^5",
+        "@types/node": "^20",
+        "@types/react": "^19",
+        "@types/react-dom": "^19",
+        "@types/uuid": "^10.0.0",
+        "postcss": "^8",
+        "tailwindcss": "^4"
+    }
+}
